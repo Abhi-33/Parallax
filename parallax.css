@@ -1,0 +1,91 @@
+html,body{
+    height:100%;
+    margin:0;
+    font-size:16px;
+    font-family:"lato",sans-serif;
+    font-weight:400;
+    line-height: 1.8em;
+    color:#666;
+}
+.img1{
+    background-image:url("paralalax1.jpg");
+    background-size:cover;
+    height:650px;
+    position:relative;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+.img2{
+    background-image: url("paralklax2.jpg");
+    min-height:400px;
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position:relative;
+}
+.textbg2{
+    background:#313534;
+    color:white;
+    padding:20px;
+}
+.img3{
+    background-image:url("paralx3.jpg");
+    min-height:400px;
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    position:relative;
+}
+.textbg3{
+    background:#313534;
+    color:white;
+    padding:50px;
+}
+.ptext{
+    position: absolute;
+    top:50%;
+    width:100%;
+    text-align:center;
+    color:black;
+    font-size:27px;
+    letter-spacing:8px;
+    text-transform: uppercase;
+}
+.textbg{
+    background:#313534;
+    color:white;
+    padding:20px;
+}
+h2{
+    text-align:center;
+    font-size:35px;
+    text-transform:uppercase;
+}
+.section{
+    padding:50px 80px;
+    text-align:center;
+}
+.section-light{
+    background-color:#e7e3e3;
+    color:#666;
+}
+.section-dark{
+    background-color:#313534;
+    color:white;
+}
+.section-dark2{
+    background-color:#313534;
+    color:white;
+}
+p{
+    text-align: center;
+    font-family:"lato",sans-serif;
+   
+}
+
+.name{
+    background-color: #313534;
+    color:white;
+    font-size:12px;
+    text-transform:uppercase;
+}
